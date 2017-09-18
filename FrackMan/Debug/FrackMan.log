@@ -1,0 +1,5 @@
+﻿  StudentWorld.cpp
+g:\computer\ucla\year 1\cs 32\project 3\frackman-skeleton-windows\frackman\frackman\studentworld.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Actor.cpp
+  Generating Code...
+  FrackMan.vcxproj -> G:\Computer\UCLA\Year 1\CS 32\Project 3\FrackMan-skeleton-windows\FrackMan\Debug\FrackMan.exe
