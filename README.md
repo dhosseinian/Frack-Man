@@ -3,6 +3,11 @@
 ## Objective
 In Frack Man, the player has to dig underground tunnels through an oil field looking for oil. After the player has gathered all available oil within a particular field, the level is completed and the player advances to a new, more difficult oil field. 
 
+## Screenshot
+![alt text][screenshot]
+
+[screenshot]: https://github.com/dhosseinian/Frack-Man/blob/master/screenshot.jpg
+
 ## Instructions
 In FrackMan, the player starts out a new game with three lives and continues to play until all of his/her lives have been exhausted. There are multiple levels in FrackMan, beginning with level 0, and each level has its own unique oil field configuration. During each level, the FrackMan (controlled by the player) must dig and find all of the oil hidden within the oil field in order to move on to the next level. 
 
